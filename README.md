@@ -26,6 +26,12 @@ Run _node server.js_ in the command line.
 
 ## Credits
 
+[MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+[Google](https://developers.google.com/web/ilt/pwa)
+
+[Udemy](https://www.udemy.com)
+
 Penn instructional staff: Anthony Briglia and Tom Woods.
 
 ## Links
