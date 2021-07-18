@@ -20,6 +20,8 @@
 
 ## Description
 
+The Budget Tracker application allows a user to add expenses and deposits to their budget with or without an internet connection, offering offline access and functionality. When transactions are entered offline the new total will be populated when the application is brought back online.
+
 ## Installation
 
 Run _node server.js_ in the command line.
